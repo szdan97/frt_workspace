@@ -56,6 +56,7 @@ add_message_files(
     LandmarkWithCovariance.msg
     Measurements.msg
     SlamMap.msg
+    Odometry.msg
 )
 
 # Generate services in the 'srv' folder
